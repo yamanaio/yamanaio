@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👩‍💻 I enjoy creating expressive web projects that combine storytelling with CSS and JavaScript-based interactions.
+🧑‍💻 I enjoy creating expressive web projects that combine storytelling with CSS and JavaScript-based interactions.
 
 <br>
 
