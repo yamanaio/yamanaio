@@ -4,4 +4,4 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,svelte,tailwind,threejs,vite,github,vercel,netlify,vscode,figma,ps,ai,xd,pr,ae&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,threejs,vite,vercel,netlify,vscode,figma,ps,ai,xd,pr,ae&perline=9)](https://skillicons.dev)
